@@ -1,4 +1,3 @@
-# azure-iot-adt-templates
 **Azure IoT and Azure Digital Twin Deployment Templates** 
 
 These templates help you deploy infrastructure to support our Nvidia Omniverse & IoT / Digital Twins solution.  
