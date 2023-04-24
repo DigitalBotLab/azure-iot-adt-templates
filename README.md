@@ -4,7 +4,7 @@ These templates help you deploy infrastructure to support our Nvidia Omniverse &
 
 **Azure Digital Twins**
 
-[1. Azure Digital Twins with Function and Private Link service](https://https://github.com/DigitalBotLab/azure-iot-adt-templates/digitaltwins-with-function-private-link/README.md)
+[1. Azure Digital Twins with Function and Private Link service](https://github.com/DigitalBotLab/azure-iot-adt-templates/blob/main/digitaltwins-with-function-private-link/README.md)
 
 This template creates an Azure Digital Twins service configured with a Virtual Network connected Azure function that can communicate through a Private Link Endpoint to Digital Twins. It also creates a Private DNS Zone to allow seamless hostname resolution of the Digital Twins endpoint from the Virtual Network to the Private Endpoint internal subnet IP address.
 
