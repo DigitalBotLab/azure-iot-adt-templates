@@ -8,25 +8,25 @@ These templates help you deploy infrastructure to support our Nvidia Omniverse &
 
 This template creates an Azure Digital Twins service configured with a Virtual Network connected Azure function that can communicate through a Private Link Endpoint to Digital Twins. It also creates a Private DNS Zone to allow seamless hostname resolution of the Digital Twins endpoint from the Virtual Network to the Private Endpoint internal subnet IP address.
 
-[2. Azure Digital Twins with Time Data History Connection]()
+[2. Azure Digital Twins with Time Data History Connection](https://github.com/DigitalBotLab/azure-iot-adt-templates/blob/main/digitaltwins-with-function-time-series-database-connection/README.md)
 
 This template creates an Azure Digital Twins instance with a time series data history connection. Other resources are also created such as an Event Hubs namespace, an event hub, an Azure Data Explorer cluster, and a database. 
 
 
 **Azure IoT**
 
-[1. Create an IOT Hub and Ubuntu edge simulator]()
+[1. Create an IOT Hub and Ubuntu edge simulator](https://github.com/DigitalBotLab/azure-iot-adt-templates/blob/main/iot-iothub-edgeemulator-vm/README.md)
 
 The purpose of this ARM Template is deploy an IoT Hub with an Ubuntu Edge Simulator. The Linux Ubuntu virtual machine is configured to be an IoT Edge device
 
-[2. Use ARM template to create IoT Hub, route and view messages.]()
+[2. Use ARM template to create IoT Hub, route and view messages.](https://github.com/DigitalBotLab/azure-iot-adt-templates/blob/main/iothub-auto-route-messages/README.md)
 
 This template creates an IoT Hub instance and a storage account, and shows how to auto-route messages to storage.
 
-[3. Create an IoT Hub Device Provisioning Service]()
+[3. Create an IoT Hub Device Provisioning Service](https://github.com/DigitalBotLab/azure-iot-adt-templates/blob/main/iothub-device-provisioning/README.md)
 
 This template creates an IoT hub and an IoT Hub Device Provisioning Service, and link the two services together.
 
-[4. Create an IoT Hub and a Device to Cloud Consumer Group]()
+[4. Create an IoT Hub and a Device to Cloud Consumer Group](https://github.com/DigitalBotLab/azure-iot-adt-templates/blob/main/iothub-with-consumergroup-create/README.md)
 
 This template creates an IoT Hub instance with device to cloud and cloud to device messaging configurations and a device to cloud consumer group.
